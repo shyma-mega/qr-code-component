@@ -43,6 +43,9 @@ main img {
     margin-left: 120;
     margin-bottom: 20px;
 }
+main h2 {
+    color: var(--Dark-blue);
+}
 
 main p {
     margin-top: 20px;
